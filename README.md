@@ -10,5 +10,5 @@
 
 ## Getting Started
 1. Start the server.
-2. Explore the APIs using the instructions provided in the [documentation](https://docs.google.com/document/d/1fXIfuGzfR14TFzFWe4_fY84DBASCsCXJqas85YjMp7o/edit?usp=sharing](https://docs.google.com/document/d/1rdDro8mFfisEMtVtYW5VFgfPxWD4u2NhPlgawuonxuc/edit?usp=sharing)https://docs.google.com/document/d/1rdDro8mFfisEMtVtYW5VFgfPxWD4u2NhPlgawuonxuc/edit?usp=sharing).
+2. Explore the APIs using the instructions provided in the [documentation](https://docs.google.com/document/d/1rdDro8mFfisEMtVtYW5VFgfPxWD4u2NhPlgawuonxuc/edit?usp=sharing).
 3. Test the functionality.
